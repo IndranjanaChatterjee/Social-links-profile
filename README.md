@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Social-links-profile)
-- Live Site URL: [live site URL](https://results-summary-component-sigma-six.vercel.app/)
+- Live Site URL: [live site URL](https://social-links-profile-xi.vercel.app/)
 
 
 ## My process
