@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Results-summary-component)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Social-links-profile)
 - Live Site URL: [live site URL](https://results-summary-component-sigma-six.vercel.app/)
 
 
